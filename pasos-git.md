@@ -32,7 +32,7 @@ git add .
 
 Paso 2:
 Hacer una nueva version
-git commit -m "Describi los cambios brevemente"
+git commit -m "Hice un h3"
 
 Paso 3:
 subir la version:
